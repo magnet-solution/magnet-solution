@@ -19,11 +19,11 @@ We deliver production-ready platforms scaled for **local small businesses**, **l
 Our visual system directly bridges the physical force of a **Magnet** with the interconnected capability of a digital **Network**.
 
 ### 💻 Color Palette
-*   ⬛ **Deep Dark Blue / Space Black** (`#0D1117`) — Core background and structure baseline.
-*   🟥 **Primary Red** (`#E53935`) — The high-impact force color for branding emphasis.
-*   🟧 **Secondary Coral Red** (`#FF6B5B`) — Dynamic accents and micro-interactions.
-*   🟪 **Muted Slate Grey** (`#6B7280`) — Component borders, supporting text, and details.
-*   ⬜ **Off-White / Light Grey** (`#F3F4F6`) — UI backgrounds and clean readability states.
+⬛ #0D1117 — Core background, structure baseline, and deep branding elements.
+🟥 #E53935 — The high-impact primary red for core brand emphasis and call-to-actions.
+🟧 #FF6B5B — Vibrant coral red for accents, hovers, and dynamic micro-interactions.
+🟪 #6B7280 — Muted slate grey for borders, secondary details, and supporting metadata.
+⬜ #F3F4F6 — Off-white layout backgrounds, clean typography states, and high-readability areas.
 
 ### 🔤 Typography
 *   **Primary Brand Display:** `Integral CF (Heavy Oblique)` — A powerful, modern, forward-leaning title face built for impact.
