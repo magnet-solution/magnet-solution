@@ -1,7 +1,7 @@
 # MagNet ⚡
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/logo.jpg" alt="MagNet Logo" width="400"/>
+  <img src="https://github.com/your-username/your-repo/raw/main/logo.jpg" alt="MagNet Logo" width="450"/>
 </p>
 
 <p align="center">
@@ -14,13 +14,20 @@ We deliver production-ready platforms scaled for **local small businesses**, **l
 
 ---
 
-## 🎨 Brand Identity & Visual Theme
+## 🎨 Brand Identity & Design System
 
-Our visual identity perfectly reflects our name—bridging the raw pull power of a **Magnet** with the interconnected capability of a **Network**. 
+Our visual system directly bridges the physical force of a **Magnet** with the interconnected capability of a digital **Network**.
 
-### Official Color Palette
-*   🟦 **Deep Magnet Navy** (`#0A131F`) — Represents security, structural integrity, and enterprise-grade backend reliability.
-*   🟥 **Network Electric Red** (`#FF1E27`) — Represents speed, modern frontend interconnected nodes, and high-impact digital visibility.
+### 💻 Color Palette
+*   ⬛ **Deep Dark Blue / Space Black** (`#0D1117`) — Core background and structure baseline.
+*   🟥 **Primary Red** (`#E53935`) — The high-impact force color for branding emphasis.
+*   🟧 **Secondary Coral Red** (`#FF6B5B`) — Dynamic accents and micro-interactions.
+*   🟪 **Muted Slate Grey** (`#6B7280`) — Component borders, supporting text, and details.
+*   ⬜ **Off-White / Light Grey** (`#F3F4F6`) — UI backgrounds and clean readability states.
+
+### 🔤 Typography
+*   **Primary Brand Display:** `Integral CF (Heavy Oblique)` — A powerful, modern, forward-leaning title face built for impact.
+*   **Body & System Font:** `Neo-Grotesque Sans-Serserif` — Clean, geometric, and optimized for code legibility and fluid user interface reading.
 
 ---
 
