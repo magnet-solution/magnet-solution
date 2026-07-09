@@ -1,6 +1,12 @@
 # MagNet ⚡
 
-> **"Attracting customers to your business, online."**
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/raw/main/logo.jpg" alt="MagNet Logo" width="400"/>
+</p>
+
+<p align="center">
+  <b>"Attracting customers to your business, online."</b>
+</p>
 
 MagNet is an agile, full-stack digital agency and development startup engineered to build high-performance, secure, and conversion-optimized web infrastructure. We act as a digital force field for organizations, pulling target audiences directly to client storefronts and platforms. 
 
@@ -8,18 +14,13 @@ We deliver production-ready platforms scaled for **local small businesses**, **l
 
 ---
 
-## 👥 Meet The Team
+## 🎨 Brand Identity & Visual Theme
 
-We operate as a synchronized 4-person engineering and marketing unit:
+Our visual identity perfectly reflects our name—bridging the raw pull power of a **Magnet** with the interconnected capability of a **Network**. 
 
-*   **Florence Cris (`@YourGitHub`)** — *CEO & Lead Developer* 
-    *   Focus: Strategic leadership, client discovery, architectural validation, and final Quality Assurance (QA)[cite: 2].
-*   **Developer #2** — *Frontend Engineer*
-    *   Focus: UI/UX design, fluid responsive layouts, interactive elements, and modern client-facing design engineering[cite: 2].
-*   **Developer #3** — *Backend Engineer*
-    *   Focus: Robust API architecture, relational database schemas, secure authentications, hosting, and production DevOps[cite: 2].
-*   **Member #4** — *Marketing & Outreach Lead*
-    *   Focus: Growth infrastructure, organic content strategy, technical SEO auditing, and local lead-generation engines[cite: 2].
+### Official Color Palette
+*   🟦 **Deep Magnet Navy** (`#0A131F`) — Represents security, structural integrity, and enterprise-grade backend reliability.
+*   🟥 **Network Electric Red** (`#FF1E27`) — Represents speed, modern frontend interconnected nodes, and high-impact digital visibility.
 
 ---
 
@@ -55,7 +56,7 @@ Our primary engineering ecosystem is chosen for maximum performance, security, a
 *   **Features:** Secure JWT/Django authentication, modular database structures, interactive analytics dashboards, and webhooks.
 
 ### 5. Academic & School Projects
-*   **Focus:** Bridging strict grading rubrics with clean, industry-grade software architectures.
+*   **Focus:** Bridging strict grading rubrics with industry-grade software architectures.
 *   **Features:** Heavily commented codebases, Entity-Relationship Diagrams (ERDs), technical setup documentation summaries, and clean local environment variables for simple presentations.
 
 ### 6. Continuous Maintenance & Security
