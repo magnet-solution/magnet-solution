@@ -1,7 +1,7 @@
 # MagNet ⚡
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/raw/main/logo.jpg" alt="MagNet Logo" width="450"/>
+  <img src="https://github.com/your-username/your-repo/raw/main/logo.png" alt="MagNet Logo" width="450"/>
 </p>
 
 <p align="center">
